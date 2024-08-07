@@ -1,6 +1,6 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=/Users/tangyc/Documents/softs2/flutter"
+export "FLUTTER_ROOT=/Users/tangyc/Documents/softs2/next_flutter_src"
 export "FLUTTER_APPLICATION_PATH=/Users/tangyc/Documents/codes/qianji_flutter/ext/charts/charts_flutter/example"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib/main.dart"
